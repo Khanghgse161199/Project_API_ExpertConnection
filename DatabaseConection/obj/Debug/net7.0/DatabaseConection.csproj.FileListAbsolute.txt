@@ -1,0 +1,42 @@
+E:\Project Code\API_Learning\DatabaseConection\bin\Debug\net7.0\DatabaseConection.deps.json
+E:\Project Code\API_Learning\DatabaseConection\bin\Debug\net7.0\DatabaseConection.runtimeconfig.json
+E:\Project Code\API_Learning\DatabaseConection\bin\Debug\net7.0\DatabaseConection.dll
+E:\Project Code\API_Learning\DatabaseConection\bin\Debug\net7.0\DatabaseConection.pdb
+E:\Project Code\API_Learning\DatabaseConection\obj\Debug\net7.0\DatabaseConection.csproj.AssemblyReference.cache
+E:\Project Code\API_Learning\DatabaseConection\obj\Debug\net7.0\DatabaseConection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Code\API_Learning\DatabaseConection\obj\Debug\net7.0\DatabaseConection.AssemblyInfoInputs.cache
+E:\Project Code\API_Learning\DatabaseConection\obj\Debug\net7.0\DatabaseConection.AssemblyInfo.cs
+E:\Project Code\API_Learning\DatabaseConection\obj\Debug\net7.0\DatabaseConection.csproj.CoreCompileInputs.cache
+E:\Project Code\API_Learning\DatabaseConection\obj\Debug\net7.0\DatabaseConection.dll
+E:\Project Code\API_Learning\DatabaseConection\obj\Debug\net7.0\refint\DatabaseConection.dll
+E:\Project Code\API_Learning\DatabaseConection\obj\Debug\net7.0\DatabaseConection.pdb
+E:\Project Code\API_Learning\DatabaseConection\obj\Debug\net7.0\DatabaseConection.genruntimeconfig.cache
+E:\Project Code\API_Learning\DatabaseConection\obj\Debug\net7.0\ref\DatabaseConection.dll
+E:\Project Code\API\Project_First(ExpertConection)\DatabaseConection\bin\Debug\net7.0\DatabaseConection.deps.json
+E:\Project Code\API\Project_First(ExpertConection)\DatabaseConection\bin\Debug\net7.0\DatabaseConection.runtimeconfig.json
+E:\Project Code\API\Project_First(ExpertConection)\DatabaseConection\bin\Debug\net7.0\DatabaseConection.dll
+E:\Project Code\API\Project_First(ExpertConection)\DatabaseConection\bin\Debug\net7.0\DatabaseConection.pdb
+E:\Project Code\API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\DatabaseConection.csproj.AssemblyReference.cache
+E:\Project Code\API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\DatabaseConection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Code\API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\DatabaseConection.AssemblyInfoInputs.cache
+E:\Project Code\API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\DatabaseConection.AssemblyInfo.cs
+E:\Project Code\API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\DatabaseConection.csproj.CoreCompileInputs.cache
+E:\Project Code\API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\DatabaseConection.dll
+E:\Project Code\API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\refint\DatabaseConection.dll
+E:\Project Code\API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\DatabaseConection.pdb
+E:\Project Code\API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\DatabaseConection.genruntimeconfig.cache
+E:\Project Code\API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\ref\DatabaseConection.dll
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DatabaseConection\bin\Debug\net7.0\DatabaseConection.deps.json
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DatabaseConection\bin\Debug\net7.0\DatabaseConection.runtimeconfig.json
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DatabaseConection\bin\Debug\net7.0\DatabaseConection.dll
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DatabaseConection\bin\Debug\net7.0\DatabaseConection.pdb
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\DatabaseConection.csproj.AssemblyReference.cache
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\DatabaseConection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\DatabaseConection.AssemblyInfoInputs.cache
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\DatabaseConection.AssemblyInfo.cs
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\DatabaseConection.csproj.CoreCompileInputs.cache
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\DatabaseConection.dll
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\refint\DatabaseConection.dll
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\DatabaseConection.pdb
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\DatabaseConection.genruntimeconfig.cache
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DatabaseConection\obj\Debug\net7.0\ref\DatabaseConection.dll

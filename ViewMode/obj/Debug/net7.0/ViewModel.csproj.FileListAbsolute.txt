@@ -1,0 +1,30 @@
+E:\Project Code\API\Project_First(ExpertConection)\ViewMode\bin\Debug\net7.0\ViewModel.deps.json
+E:\Project Code\API\Project_First(ExpertConection)\ViewMode\bin\Debug\net7.0\ViewModel.dll
+E:\Project Code\API\Project_First(ExpertConection)\ViewMode\bin\Debug\net7.0\ViewModel.pdb
+E:\Project Code\API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\ViewModel.csproj.AssemblyReference.cache
+E:\Project Code\API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Code\API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\ViewModel.AssemblyInfoInputs.cache
+E:\Project Code\API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\ViewModel.AssemblyInfo.cs
+E:\Project Code\API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\ViewModel.csproj.CoreCompileInputs.cache
+E:\Project Code\API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\ViewModel.dll
+E:\Project Code\API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\refint\ViewModel.dll
+E:\Project Code\API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\ViewModel.pdb
+E:\Project Code\API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\ref\ViewModel.dll
+E:\Project Code\API\Project_First(ExpertConection)\ViewMode\bin\Debug\net7.0\DatabaseConection.dll
+E:\Project Code\API\Project_First(ExpertConection)\ViewMode\bin\Debug\net7.0\DatabaseConection.pdb
+E:\Project Code\API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\ViewModel.csproj.CopyComplete
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\ViewMode\bin\Debug\net7.0\ViewModel.deps.json
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\ViewMode\bin\Debug\net7.0\ViewModel.dll
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\ViewMode\bin\Debug\net7.0\ViewModel.pdb
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\ViewMode\bin\Debug\net7.0\DatabaseConection.dll
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\ViewMode\bin\Debug\net7.0\DatabaseConection.pdb
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\ViewModel.csproj.AssemblyReference.cache
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\ViewModel.AssemblyInfoInputs.cache
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\ViewModel.AssemblyInfo.cs
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\ViewModel.csproj.CoreCompileInputs.cache
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\ViewModel.csproj.CopyComplete
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\ViewModel.dll
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\refint\ViewModel.dll
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\ViewModel.pdb
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\ViewMode\obj\Debug\net7.0\ref\ViewModel.dll

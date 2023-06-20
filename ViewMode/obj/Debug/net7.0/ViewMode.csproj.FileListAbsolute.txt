@@ -1,0 +1,12 @@
+E:\Project Code\API_Learning\ViewMode\bin\Debug\net7.0\ViewMode.deps.json
+E:\Project Code\API_Learning\ViewMode\bin\Debug\net7.0\ViewMode.dll
+E:\Project Code\API_Learning\ViewMode\bin\Debug\net7.0\ViewMode.pdb
+E:\Project Code\API_Learning\ViewMode\obj\Debug\net7.0\ViewMode.csproj.AssemblyReference.cache
+E:\Project Code\API_Learning\ViewMode\obj\Debug\net7.0\ViewMode.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Code\API_Learning\ViewMode\obj\Debug\net7.0\ViewMode.AssemblyInfoInputs.cache
+E:\Project Code\API_Learning\ViewMode\obj\Debug\net7.0\ViewMode.AssemblyInfo.cs
+E:\Project Code\API_Learning\ViewMode\obj\Debug\net7.0\ViewMode.csproj.CoreCompileInputs.cache
+E:\Project Code\API_Learning\ViewMode\obj\Debug\net7.0\ViewMode.dll
+E:\Project Code\API_Learning\ViewMode\obj\Debug\net7.0\refint\ViewMode.dll
+E:\Project Code\API_Learning\ViewMode\obj\Debug\net7.0\ViewMode.pdb
+E:\Project Code\API_Learning\ViewMode\obj\Debug\net7.0\ref\ViewMode.dll

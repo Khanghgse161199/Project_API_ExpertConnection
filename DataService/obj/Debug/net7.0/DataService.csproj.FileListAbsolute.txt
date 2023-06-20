@@ -1,0 +1,51 @@
+E:\Project Code\API_Learning\DataService\obj\Debug\net7.0\DataService.csproj.AssemblyReference.cache
+E:\Project Code\API_Learning\DataService\obj\Debug\net7.0\DataService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Code\API_Learning\DataService\obj\Debug\net7.0\DataService.AssemblyInfoInputs.cache
+E:\Project Code\API_Learning\DataService\obj\Debug\net7.0\DataService.AssemblyInfo.cs
+E:\Project Code\API_Learning\DataService\obj\Debug\net7.0\DataService.csproj.CoreCompileInputs.cache
+E:\Project Code\API_Learning\DataService\bin\Debug\net7.0\DataService.deps.json
+E:\Project Code\API_Learning\DataService\bin\Debug\net7.0\DataService.dll
+E:\Project Code\API_Learning\DataService\bin\Debug\net7.0\DataService.pdb
+E:\Project Code\API_Learning\DataService\bin\Debug\net7.0\DatabaseConection.dll
+E:\Project Code\API_Learning\DataService\bin\Debug\net7.0\DatabaseConection.pdb
+E:\Project Code\API_Learning\DataService\obj\Debug\net7.0\DataService.csproj.CopyComplete
+E:\Project Code\API_Learning\DataService\obj\Debug\net7.0\DataService.dll
+E:\Project Code\API_Learning\DataService\obj\Debug\net7.0\refint\DataService.dll
+E:\Project Code\API_Learning\DataService\obj\Debug\net7.0\DataService.pdb
+E:\Project Code\API_Learning\DataService\obj\Debug\net7.0\ref\DataService.dll
+E:\Project Code\API_Learning\DataService\bin\Debug\net7.0\ViewMode.dll
+E:\Project Code\API_Learning\DataService\bin\Debug\net7.0\ViewMode.pdb
+E:\Project Code\API\Project_First(ExpertConection)\DataService\bin\Debug\net7.0\DataService.deps.json
+E:\Project Code\API\Project_First(ExpertConection)\DataService\bin\Debug\net7.0\DataService.dll
+E:\Project Code\API\Project_First(ExpertConection)\DataService\bin\Debug\net7.0\DataService.pdb
+E:\Project Code\API\Project_First(ExpertConection)\DataService\bin\Debug\net7.0\DatabaseConection.dll
+E:\Project Code\API\Project_First(ExpertConection)\DataService\bin\Debug\net7.0\ViewModel.dll
+E:\Project Code\API\Project_First(ExpertConection)\DataService\bin\Debug\net7.0\DatabaseConection.pdb
+E:\Project Code\API\Project_First(ExpertConection)\DataService\bin\Debug\net7.0\ViewModel.pdb
+E:\Project Code\API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\DataService.csproj.AssemblyReference.cache
+E:\Project Code\API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\DataService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Code\API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\DataService.AssemblyInfoInputs.cache
+E:\Project Code\API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\DataService.AssemblyInfo.cs
+E:\Project Code\API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\DataService.csproj.CoreCompileInputs.cache
+E:\Project Code\API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\DataService.csproj.CopyComplete
+E:\Project Code\API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\DataService.dll
+E:\Project Code\API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\refint\DataService.dll
+E:\Project Code\API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\DataService.pdb
+E:\Project Code\API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\ref\DataService.dll
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DataService\bin\Debug\net7.0\DataService.deps.json
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DataService\bin\Debug\net7.0\DataService.dll
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DataService\bin\Debug\net7.0\DataService.pdb
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DataService\bin\Debug\net7.0\DatabaseConection.dll
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DataService\bin\Debug\net7.0\ViewModel.dll
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DataService\bin\Debug\net7.0\DatabaseConection.pdb
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DataService\bin\Debug\net7.0\ViewModel.pdb
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\DataService.csproj.AssemblyReference.cache
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\DataService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\DataService.AssemblyInfoInputs.cache
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\DataService.AssemblyInfo.cs
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\DataService.csproj.CoreCompileInputs.cache
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\DataService.csproj.CopyComplete
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\DataService.dll
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\refint\DataService.dll
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\DataService.pdb
+E:\Project Code\Asp.net API\Project_First(ExpertConection)\DataService\obj\Debug\net7.0\ref\DataService.dll
